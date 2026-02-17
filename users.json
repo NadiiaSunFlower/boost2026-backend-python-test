@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": 28,
+      "is_active": true,
+      "logins": 15
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "age": 17,
+      "is_active": false,
+      "logins": 3
+    }
+  ]
